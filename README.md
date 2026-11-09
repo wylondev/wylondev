@@ -10,7 +10,6 @@ This is wylon's official developer account. We use it to share open-source work 
 
 - **One key for the harnesses you use**: Codex, OpenCode, OpenClaw, Hermes and other agents connect with a few lines of config
 - **Image and video generation too**: the same API key works for generation models
-- **Token plans**: from ¥9.9 a month, with no 5-hour or weekly caps
 
 ## Find us
 
