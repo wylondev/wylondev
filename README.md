@@ -4,7 +4,7 @@
 
 Chat models behind one API key, compatible with the major inference API protocols. The same key also calls image and video generation models.
 
-This is wylon's official developer account. We use it to share open-source work around the wylon platform, including SDKs, code samples, developer tools, and ecosystem plugins such as ComfyUI custom nodes.
+This is wylon's official developer account. We use it to share open-source work around the wylon platform, including SDKs, code samples, developer tools, and ecosystem plugins.
 
 ## What you get
 
