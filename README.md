@@ -1,13 +1,16 @@
 # Hi, we're wylon 👋
 
-**wylon** is an LLM inference cloud for developers and enterprises, built on domestic GPUs.
+**A reliable, easy-to-use Token Factory built on Chinese infrastructure.**
+
+Chat models behind one API key, compatible with the major inference API protocols. The same key also calls image and video generation models.
 
 This is wylon's official developer account. We use it to share open-source work around the wylon platform, including SDKs, code samples, developer tools, and ecosystem plugins such as ComfyUI custom nodes.
 
-## What we build
+## What you get
 
-- **Token Factory**: chat, image, and video inference APIs, compatible with the OpenAI and Anthropic formats
-- **GPU Supernode**: dedicated supernode compute for production workloads
+- **One key for the harnesses you use**: Codex, OpenCode, OpenClaw, Hermes and other agents connect with a few lines of config
+- **Image and video generation too**: the same API key works for generation models
+- **Token plans**: from ¥9.9 a month, with no 5-hour or weekly caps
 
 ## Find us
 
