@@ -15,6 +15,6 @@ This is wylon's official developer account. We use it to share open-source work 
 
 - Website: [wylon.cn](https://wylon.cn)
 - Docs: [wylon.cn/en/docs.html](https://wylon.cn/en/docs.html)
-- Organization: [@Wylon-Dev](https://github.com/Wylon-Dev)
+- Organization: [@wylon-cloud](https://github.com/wylon-cloud)
 - Support: support@wylon.cn
 - Sales: sales@wylon.cn
